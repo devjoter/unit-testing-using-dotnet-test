@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ipR2gTBdLvvtgYUV0/VBjrMGFnkWSNUZD9pqZ/vke6xgIfS9/tQ6Udx1hPk9dWGRXOsorc/IDu1K5BLQ3AM4Tw==",
+  "dgSpecHash": "CPyYaYrUj9zjRnvmdtgnAnfJJ6ktmkZJzo6tS8AFiCU3IbSc77hVaQHSVlHMiLyzmuzOPq7Zvw0qej+6QF3MvA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Marcin\\OneDrive\\Desktop\\WSB\\InzynieriaOprogramowania-Deja\\example\\unit-testing-using-dotnet-test\\PrimeService.Tests\\PrimeService.Tests.csproj",
   "expectedPackageFiles": [
